@@ -17,11 +17,13 @@ import VideoModal from "../VideoModal";
 import TimelineSlider from "../Slider/TimelineSlider";
 import { pageTitle } from "../../helper";
 
-// Hero Social Links
+// Hero Social Links 
 const heroSocialLinks = [
   { name: "Instagram", links: "https://www.instagram.com/weppso_?igsh=cmV3amxkZ2g4Njl0" },
   { name: "Facebook", links: "https://www.facebook.com/share/1Wab5hviiF/?mibextid=wwXIfr" },
   { name: "Whatsapp", links: "https://wa.me/message/JWMHCLS7B6P4F1" },
+  { name: "LinkedIn", links: "https://www.linkedin.com/company/weppso" },
+
 ];
 
 // FunFact Data

@@ -15,6 +15,9 @@ export default function SocialWidget() {
       <Link to='https://wa.me/message/JWMHCLS7B6P4F1' target='_blank' className="cs-center">
         <Icon icon="fa6-brands:whatsapp" />              
       </Link>
+      <Link to='https://www.linkedin.com/company/weppso' target='_blank' className="cs-center">
+        <Icon icon="fa6-brands:linkedin" />              
+      </Link>
     </Div>
   )
 }
